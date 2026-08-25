@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FulixsonsmpX.aternos.me:43114",
+    "ip": "FulixsonsmpX.aternos.me",
     "port": 43114,
     "version": "1.20.1",
     "try-creative": false
