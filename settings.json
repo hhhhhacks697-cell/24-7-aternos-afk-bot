@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "McFleetag.aternos.me:29440",
-    "port": 43114,
+    "ip": "McFleetag.aternos.me",
+    "port": 29440,
     "version": "1.20.1",
     "try-creative": false
   },
